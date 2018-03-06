@@ -1,0 +1,11 @@
+commit: gravar as alterações no repositório.
+
+
+-> git init : dentro da pasta, torna ela um repositório para controle no git.
+
+-> git ls-files: mostra os arquivos que estão sendo controlados pelo git.
+
+-> git add NOME-DO-ARQUIVO: informa ao git que o arquivo deve ser controlado.
+
+->git commit -m "Título da página"
+// -m significa que vou passar uma mensagem do que eu realizei nesse commit. "Título da pagina" seria essa mensagem.
