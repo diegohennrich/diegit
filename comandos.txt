@@ -9,3 +9,7 @@ commit: gravar as alterações no repositório.
 
 ->git commit -m "Título da página"
 // -m significa que vou passar uma mensagem do que eu realizei nesse commit. "Título da pagina" seria essa mensagem.
+
+-> git log : mostra todos os commit e a descrição "-m" de cada
+
+-> git whatchanged -p : mostra o que foi trocado nos arquivos em cada commit.
