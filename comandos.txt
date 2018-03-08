@@ -13,3 +13,9 @@ commit: gravar as alterações no repositório.
 -> git log : mostra todos os commit e a descrição "-m" de cada
 
 -> git whatchanged -p : mostra o que foi trocado nos arquivos em cada commit.
+
+->git push: envia o commit para máquina remota(github)
+
+->git add origin(aliás) https://github.com/diegohennrich/diegit.git(url do git)
+
+->git push origin(aliás) master(branch)
